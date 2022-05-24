@@ -1,0 +1,56 @@
+body {
+    background-image: url('firstBG.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  h3{
+      text-align: center;
+      font-size: 60px;
+  }
+  h2{
+      text-align: center;
+      font-size: 45px;
+  }
+  div.transbox {
+    margin-left: 300px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    width: 260px;
+    height: 60px;
+    opacity: 0.6;
+    border-radius: 10px;
+  }
+  
+  div.transbox,p {
+    margin: 10%;
+    margin-left: 45%;
+    font-weight: bold;
+    color: #000000;
+  }
+  table{
+    margin-left: 10px;
+  
+  }
+  th, td{
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  a:link {
+    text-decoration: none;
+    color:#000000;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color:#000000;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color:#F4ECB8;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
